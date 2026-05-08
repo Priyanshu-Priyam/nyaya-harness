@@ -1,0 +1,2 @@
+[console_scripts]
+nyaya = nyaya.cli.app:main
